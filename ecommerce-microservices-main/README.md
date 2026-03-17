@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Goutham
+
 
 💻 Backend Developer | Python | AI Enthusiast
 🚀 Passionate about building scalable systems and solving real-world problems
